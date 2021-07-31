@@ -1,6 +1,5 @@
 import numpy as np
 from math import *
-from my_random import ran, ran01, result
 from constants import *
 
 class Maze(object):

@@ -9,8 +9,6 @@ import operator
 import matplotlib.pyplot as plt
 from tensorboardX import SummaryWriter
 from random import choice
-from TD3 import TD3
-from utils import ReplayBuffer
 from Q_table import QLearningTable
 from func import trans
 ACTIONS = []
